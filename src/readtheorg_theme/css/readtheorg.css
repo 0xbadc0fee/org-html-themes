@@ -60,9 +60,9 @@ body{
 
 #content{
     background:#fcfcfc;
-    margin-left:300px;
+    margin-left:350px;
     /* margin:auto; */
-    max-width:800px;
+    max-width:70vw;
     min-height:100%;
     padding:1.618em 3.236em;
 }
@@ -778,7 +778,7 @@ hr{
     position:fixed;
     top:0;
     left:0;
-    width:300px;
+    width:350px;
     overflow-x:hidden;
     overflow-y:scroll;
     height:100%;
